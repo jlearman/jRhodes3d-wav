@@ -4,6 +4,9 @@
 
 90 Mb disk space (separable mono: 22MB, stereo: 36MB, stereo vibrato: 33MB)
 
+- Source: https://github.com/jlearman/jRhodes3d-wav
+- For FLAC format, see https://github.com/sfzinstruments/jlearman.jRhodes3d
+
 ## jRhodes3 family
 
 jRhodes3 is my sampling of my 1977 Rhodes Mark I Stage 73 electric piano, which
